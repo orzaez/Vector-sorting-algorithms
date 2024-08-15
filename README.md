@@ -1,4 +1,5 @@
 # Vector Sorting Algorithms
+![Sorting Algorithms](https://github.com/orzaez/Vector-sorting-algorithms/blob/master/sorting-algorithm-banner.png)
 
 This repository contains implementations of various sorting algorithms optimized for vector data structures in C++. It demonstrates the performance and efficiency of different sorting techniques on vector containers.
 
